@@ -11,3 +11,18 @@ import Foundation
 println("Hello, World!") //swift不需要加@,无需main函数
 println("Hello, World!1")
 println("Hello, World!2")
+asdfkladsjflkjadskf.dasf
+
+
+
+
+asdfkladsjflkjadskff
+
+
+
+ffsafdfdfsfdsfddfffdfsdfs
+f f
+dsddfs
+放大
+
+vd
